@@ -16,9 +16,9 @@ nodes:
   arm_2_joint:
     id: 4
   arm_3_joint:
-    id: 5
+    id: 15
   arm_4_joint:
-    id: 6
+    id: 16
   arm_5_joint:
     id: 7
   arm_6_joint:
